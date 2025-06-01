@@ -40,3 +40,12 @@ font: 30px;
 I display: flex;
   justify-content: flex-end;
   width: 25%;
+  padding-right: 30px;
+}
+.banner1{
+    display: flex;
+    justify-content: center;
+}
+.estudante_titulo{
+   padding: 50px;
+   text-align: center;
