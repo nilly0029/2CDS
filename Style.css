@@ -19,4 +19,24 @@ max-width: 1980px;
 margin: 0 auto;
 display: flex;
 align-items: center;
-justify-content: center:
+justify-content: center;
+
+}
+.cabecalho-imagem{
+width: 10%;
+display: flex;
+justify-content: flex-start;
+align-items: center;
+
+}
+.titulo_site{
+padding: 50px;
+text-align: center;
+width: 50%;
+font: 30px;
+
+}
+.sociais{
+I display: flex;
+  justify-content: flex-end;
+  width: 25%;
